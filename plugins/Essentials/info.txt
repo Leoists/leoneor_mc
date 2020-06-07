@@ -5,17 +5,15 @@ works. Just type &a/ifo <topic>&r for any of the below:
 &alegends
 
 # places 
-&lTo return to Castle Floatingpoint, type &a/warp spawn&r.
+&lTo return to Castle Floatingpoint&r, type &a/warp spawn&r.
 To return to your home, type &a/home&r. To teleport to 
 another player, type &a/tpa <playername>&r and wait for 
-them to accept your request (by typing the &a/tpaccept&r
-command). To go back to where you were before you 
-teleported (including the above methods) you can type
-&a/back&r. From Castle Floatingpoint there is a door
-opening directly to a creative region. There is 
-also a loooong ice bridge going accross the sea to 
-a survival region. See also &a/ifo home&r and 
-
+them to accept your request (with &a/tpaccept&r). To go 
+back to where you were before you teleported (including 
+above methods), type &a/back&r. On the bottom floor of
+Castle Floatingpoint a door opens directly to a creative
+region. Also an Icebridge to a survival region. 
+See also &a/ifo home&r
 # creative 
 In creative regions you can build vast magnificent structures 
 to your heart's content. Just one rule to keep it fair: &cyou 
@@ -25,7 +23,6 @@ survival inventory disappears but it will come back when you
 leave. Mobs spawn but cannot harm creative players. There's a
 creative region out the north iron doors on the bottom floor 
 of Castle Floatingpoint. Just jump (or fly) off the edge.
-
 # survival 
 Most of the world that isn't protected or creative is regular 
 survival with a few added commands. Some redstone devices
@@ -35,7 +32,6 @@ huge icebridge going from the ground floor of Castle
 Floatingpoint to the northwest. If you find a place in survival
 that you want to convert to creative so that you can build
 something fun there, please read &a/ifo requests
-
 # protected 
 In protected regions you can use most gadgets (including 
 chests) but you are prevented from breaking blocks, placing 
@@ -43,7 +39,6 @@ blocks, and attacking mobs. No hostile mobs spawn here.
 Castle Floatingpoint is protected and so are most of the 
 villages near it. In your journeys you might find some 
 tourist spots and those are also protected.
-
 # villages 
 The villages near Castle Floatingpoint are named Northville,
 Northwestville, Southeastville, Southwestville, and Northeastville.
@@ -52,7 +47,6 @@ a warp point will be created for the village and a plaque in that
 player's honor will be installed in that village square. There is
 also Ground Zero, an ancient landmark someplace far, far away from
 Castle Floatingpoint.
-
 # icebridge
 Icebridge is a loooong bridge made of ice stretching from
 Castle Floatingpoint northwest across the sea and through a 
@@ -61,7 +55,6 @@ hillside. Or does it? Someday it may be a passenger rail
 line. But for now it's a convenient shortcut to get away 
 from it all to a woodsy survival environment. No 
 guard-rails yet, so be careful.
-
 # spawn 
 Spawn is located in Castle Floatingpoint which floats 
 above Green Island. Anytime you type &a/warp spawn&r 
@@ -72,7 +65,6 @@ exits to a creative area (double metal doors) and a
 long icy bridge accross the sea to the survival 
 wilderness. Welcome, have fun, and play nice. See also
 &a/ifo places&r
-
 # home 
 You can claim a bed by right-clicking on it. After that,
 when you get killed you will wake up in that bed and when
@@ -83,7 +75,6 @@ appearing in Castle Floatingpoint when you die. We don't
 everyone else out, but you can lock your chests and doors
 by right-clicking them with a sign. See &a/help lockette&r
 for more information.
-
 # trade 
 You start with a certain amount of money that you can use 
 to pay in-game vending machines. You can also pay players 
@@ -92,14 +83,12 @@ command. You can buy and sell things to some villagers
 using emeralds as money (the villagers at Castle 
 Floatingpoint have an especially rich selection of 
 merchandise).
-
 # chat 
 The main chat method is to just type stuff into the chat 
 console. You could also use the &a/mail <player> <message>&r 
 command to send a message to somebody not currently logged in 
 or &a/mail&r to check your own messages. To contact an op 
 (most likely Dadp00l) use the &a/helpop <message>&r command.
-
 # locks 
 To lock a door so that only you can open it, take a sign and 
 right-click with it on the block right above the door. To lock 
@@ -108,7 +97,6 @@ sneaking. Remember to not be a jerk-- if you didn't build a
 door or chest you probably shouldn't be locking it. There are 
 additional tricks to locking things (multiple people and
 timeouts). To learn more about those, type &a/lockettepro&r
-
 # requests
 If you have a request or suggestion, please 
 go to this link... https://github.com/bokov/leoneor_mc/issues/new/
@@ -122,7 +110,6 @@ please include the coordinates of those corners, how far up and down
 you want the proposed region to extend, and your reasons for wanting
 it to be converted. You might be told to change certain things about
 the area before the request is granted.
-
 # legends 
 &oWork in progress. Come back soon to see more details about&r
 &othe legends below.&r
@@ -136,7 +123,6 @@ the area before the request is granted.
 &nRogue Flying Machines&r 
 &nISS&r 
 &nLeaning Tower of Pisa&r 
-
 #Colors
 Minecraft colors:
 &0 &&0  &1 &&1  &2 &&2  &3 &&3
