@@ -1,7 +1,7 @@
 ---
 name: Region request
 about: Request a special region to be created or changed
-title: ''
+title: "[REGION]"
 labels: regions
 assignees: bokov
 

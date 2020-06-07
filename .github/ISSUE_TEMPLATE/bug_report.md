@@ -1,14 +1,16 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: "[BUG]"
 labels: ''
 assignees: ''
+
 ---
 
 Are you using Minecraft Java Edition 1.15.2?
--[] Yes
--[] No 
+
+- [ ]  Yes
+- [ ]  No 
 
 **Describe the bug**
 A clear and concise description of what the bug is.
