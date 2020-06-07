@@ -1,0 +1,169 @@
+The following are topics for which the &a/ifo&r command 
+works. Just type &a/ifo <topic>&r for any of the below:
+&aplaces, creative, survival, protected, villages,
+&aicebridge, spawn, home, trade, chat, locks, colors, requests
+&alegends
+
+# places 
+&lTo return to Castle Floatingpoint, type &a/warp spawn&r.
+To return to your home, type &a/home&r. To teleport to 
+another player, type &a/tpa <playername>&r and wait for 
+them to accept your request (by typing the &a/tpaccept&r
+command). To go back to where you were before you 
+teleported (including the above methods) you can type
+&a/back&r. From Castle Floatingpoint there is a door
+opening directly to a creative region. There is 
+also a loooong ice bridge going accross the sea to 
+a survival region. See also &a/ifo home&r and 
+
+# creative 
+In creative regions you can build vast magnificent structures 
+to your heart's content. Just one rule to keep it fair: &cyou 
+&cmay not transfer items to players who are in survival mode 
+&c(yourself or others)&r. When you enter a creative region your 
+survival inventory disappears but it will come back when you 
+leave. Mobs spawn but cannot harm creative players. There's a
+creative region out the north iron doors on the bottom floor 
+of Castle Floatingpoint. Just jump (or fly) off the edge.
+
+# survival 
+Most of the world that isn't protected or creative is regular 
+survival with a few added commands. Some redstone devices
+that don't work in creative might work here. Parts Green 
+Island below Castle Floatingpoint are survival. There's also a
+huge icebridge going from the ground floor of Castle
+Floatingpoint to the northwest. If you find a place in survival
+that you want to convert to creative so that you can build
+something fun there, please read &a/ifo requests
+
+# protected 
+In protected regions you can use most gadgets (including 
+chests) but you are prevented from breaking blocks, placing 
+blocks, and attacking mobs. No hostile mobs spawn here. 
+Castle Floatingpoint is protected and so are most of the 
+villages near it. In your journeys you might find some 
+tourist spots and those are also protected.
+
+# villages 
+The villages near Castle Floatingpoint are named Northville,
+Northwestville, Southeastville, Southwestville, and Northeastville.
+When a player finds one of them for the first time in the game, 
+a warp point will be created for the village and a plaque in that
+player's honor will be installed in that village square. There is
+also Ground Zero, an ancient landmark someplace far, far away from
+Castle Floatingpoint.
+
+# icebridge
+Icebridge is a loooong bridge made of ice stretching from
+Castle Floatingpoint northwest across the sea and through a 
+megataiga biome only to unceremoniously dead-end on a 
+hillside. Or does it? Someday it may be a passenger rail 
+line. But for now it's a convenient shortcut to get away 
+from it all to a woodsy survival environment. No 
+guard-rails yet, so be careful.
+
+# spawn 
+Spawn is located in Castle Floatingpoint which floats 
+above Green Island. Anytime you type &a/warp spawn&r 
+into the console, you will return here. Also, you go 
+here after being killed if you don't have a working 
+bed. Downstairs in the glowstone room there are
+exits to a creative area (double metal doors) and a 
+long icy bridge accross the sea to the survival 
+wilderness. Welcome, have fun, and play nice. See also
+&a/ifo places&r
+
+# home 
+You can claim a bed by right-clicking on it. After that,
+when you get killed you will wake up in that bed and when
+you type &a/home&r in the chat you will also go there. If 
+your bed gets broken or otherwise unclaimed, you will start
+appearing in Castle Floatingpoint when you die. We don't 
+(yet) have regions you can claim as your own and keep 
+everyone else out, but you can lock your chests and doors
+by right-clicking them with a sign. See &a/help lockette&r
+for more information.
+
+# trade 
+You start with a certain amount of money that you can use 
+to pay in-game vending machines. You can also pay players 
+for goods or services with the &a/pay <playername> <amount>&r
+command. You can buy and sell things to some villagers 
+using emeralds as money (the villagers at Castle 
+Floatingpoint have an especially rich selection of 
+merchandise).
+
+# chat 
+The main chat method is to just type stuff into the chat 
+console. You could also use the &a/mail <player> <message>&r 
+command to send a message to somebody not currently logged in 
+or &a/mail&r to check your own messages. To contact an op 
+(most likely Dadp00l) use the &a/helpop <message>&r command.
+
+# locks 
+To lock a door so that only you can open it, take a sign and 
+right-click with it on the block right above the door. To lock 
+a chest, take a sign and right-click with it on the chest while
+sneaking. Remember to not be a jerk-- if you didn't build a 
+door or chest you probably shouldn't be locking it. There are 
+additional tricks to locking things (multiple people and
+timeouts). To learn more about those, type &a/lockettepro&r
+
+# requests
+If you have a request or suggestion, please 
+go to this link... https://github.com/bokov/leoneor_mc/issues/new/
+...then fill it out and click 'Submit new issue'. You will need
+to set up a GitHub account, but they are free. Before you request to
+to convert someplace to creative (or back from creative to survival)
+please hit the F3 key in-game at one corner of the area, write down
+the X and Z coordinates, then go to the opposite (diagnoal corner) 
+and write down those coordinates. In your creative/survival request
+please include the coordinates of those corners, how far up and down
+you want the proposed region to extend, and your reasons for wanting
+it to be converted. You might be told to change certain things about
+the area before the request is granted.
+
+# legends 
+&oWork in progress. Come back soon to see more details about&r
+&othe legends below.&r
+&0 
+&nUSS Reagan&r 
+&nIhou Megalopolis&r 
+&nEaster Island&r
+&nGround Zero&r 
+&nOcean Wonders&r 
+&nIcebridge&r 
+&nRogue Flying Machines&r 
+&nISS&r 
+&nLeaning Tower of Pisa&r 
+
+#Colors
+Minecraft colors:
+&0 &&0  &1 &&1  &2 &&2  &3 &&3
+&4 &&4  &5 &&5  &6 &&6  &7 &&7
+&8 &&8  &9 &&9  &a &&a  &b &&b
+&c &&c  &d &&d  &e &&e  &f &&f
+&0 
+&&k &kMagic&r   &&l &lBold
+&&m &mStrike&r  &&n &nUline
+&&o &oItalic&r   &&r &rReset
+
+#Tags
+&6Player's Display name:&r {PLAYER}
+&6Player's user name:&r {USERNAME}
+&6IP:&r {IP}
+&6Address:&r {ADDRESS}
+&6Balance:&r {BALANCE}
+&6Unread mails:&r {MAILS}
+&6Current world:&r {WORLD}
+&6Worlds list:&r {WORLDS}
+&6Number of online players:&r {ONLINE}
+&6Number of unique players who joined the server:&r {UNIQUE}
+&6Player list:&r {PLAYERLIST}
+&6Time of server:&r {TIME}
+&6Date of server:&r {DATE}
+&6Time of world PM/AM:&r {WORLDTIME12}
+&6Time of world:&r {WORLDTIME24}
+&6Date of world:&r {WORLDDATE}
+&6Plugin list:&r {PLUGINS}
+&6Version of CraftBukkit:&r {VERSION}
